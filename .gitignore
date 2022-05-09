@@ -1,0 +1,11 @@
+MerkleTree.circom
+/inspiration
+/experiments
+build/IdentityTree/groth_example
+build/IdentityTree/plonk_example
+build/ReputationTree/groth_example
+build/ReputationTree/plonk_example
+circomlib/
+old/
+yarn-error.log
+.DS_Store
